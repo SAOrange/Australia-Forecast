@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from streamlit_folium import folium_static
 import folium
 import missingno as msno
 import seaborn as sns
